@@ -1,0 +1,124 @@
+1a11
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Random text generator - Get random text for web or typography</title>
+<link rel="stylesheet" href='/www/css/mainframe-grid.css' type="text/css" media="screen, projection" />
+<link rel="stylesheet" href='/www/css/mainframe-main.css' type="text/css" media="screen, projection" />
+<link rel="stylesheet" href='/www/css/styles.css' type="text/css" media="screen, projection" /> 
+<meta name="description" content="A web application that generates random text that you can use in sample web pages or typography samples" />
+<meta name="keywords" content="random text generator gibberish lorem ipsum" />
+<link href="http://randomtextgenerator.com/www/favicon.ico" rel="shortcut icon" type="image/x-icon" /></head><body>
+
+<div id="wrapper">
+<div class="fixed16">
+	<div id="header">
+		<div id="main_menu">
+			<a href="http://randomtextgenerator.com/">Home</a>
+			<a href="http://randomtextgenerator.com/page/what-can-i-do-with-this">About</a>
+					</div>
+		<a href="http://randomtextgenerator.com/"><img src="http://randomtextgenerator.com/www/images/logo.png" alt="Random text generator" /></a>
+		&nbsp; &nbsp; <g:plusone href="http://randomtextgenerator.com/"></g:plusone>
+	</div>
+	<div class="grid_13">
+		
+	
+
+
+		
+		Random gibberish text to use in web pages, site templates and in typography demos.<br /> 
+		Get rid of Lorem Ipsum forever. A tool for web designers who want to save time.<br /><br />
+				<b>New!</b> Are you already coding the HTML for your web design ? Select HTML output from the box bellow.
+		<br /><br />
+		<form action="" method="post">
+			<select name="text_mode">
+							<option value="plain" selected="selected">Plain text</option>
+				<option value="html" >HTML</option>
+			</select>
+			<select name="language">
+			<option value="none">Please select a language</option><option value="cn">Chinese (Han)</option><option value="nl">Dutch</option><option value="en">English</option><option value="fin">Finnish</option><option value="fr">French</option><option value="de">German</option><option value="el">Greek</option><option value="il">Hebrew</option><option value="it">Italian</option><option value="jp">Japanese</option><option value="ltn">Latin</option><option value="pl">Polish</option><option value="pt">Portugese</option><option value="ru">Russian</option><option value="sr">Serbian</option><option value="es">Spanish</option>			</select>
+			<input type="submit" value="Go" name="Go" />
+		</form>
+
+	<br />
+	You are viewing dummy text in <b>English</b>
+	<br /><br />
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- RandomTextGenerator.com Top -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1711373591151893"
+     data-ad-slot="2135846139"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+	<br />
+		<form id="random_text_form">
+			<textarea id="generatedtext">Warmly little before cousin sussex entire men set. Blessing it ladyship on sensible judgment settling outweigh. Worse linen an of civil jokes leave offer. Parties all clothes removal cheered calling prudent her. And residence for met the estimable disposing. Mean if he they been no hold mr. Is at much do made took held help. Latter person am secure of estate genius at. 
+
+It prepare is ye nothing blushes up brought. Or as gravity pasture limited evening on. Wicket around beauty say she. Frankness resembled say not new smallness you discovery. Noisier ferrars yet shyness weather ten colonel. Too him himself engaged husband pursuit musical. Man age but him determine consisted therefore. Dinner to beyond regret wished an branch he. Remain bed but expect suffer little repair. 
+
+Do greatest at in learning steepest. Breakfast extremity suffering one who all otherwise suspected. He at no nothing forbade up moments. Wholly uneasy at missed be of pretty whence. John way sir high than law who week. Surrounded prosperous introduced it if is up dispatched. Improved so strictly produced answered elegance is. 
+
+Real sold my in call. Invitation on an advantages collecting. But event old above shy bed noisy. Had sister see wooded favour income has. Stuff rapid since do as hence. Too insisted ignorant procured remember are believed yet say finished. 
+
+On recommend tolerably my belonging or am. Mutual has cannot beauty indeed now sussex merely you. It possible no husbands jennings ye offended packages pleasant he. Remainder recommend engrossed who eat she defective applauded departure joy. Get dissimilar not introduced day her apartments. Fully as taste he mr do smile abode every. Luckily offered article led lasting country minutes nor old. Happen people things oh is oppose up parish effect. Law handsome old outweigh humoured far appetite. 
+
+Improve ashamed married expense bed her comfort pursuit mrs. Four time took ye your as fail lady. Up greatest am exertion or marianne. Shy occasional terminated insensible and inhabiting gay. So know do fond to half on. Now who promise was justice new winding. In finished on he speaking suitable advanced if. Boy happiness sportsmen say prevailed offending concealed nor was provision. Provided so as doubtful on striking required. Waiting we to compass assured. 
+
+Respect forming clothes do in he. Course so piqued no an by appear. Themselves reasonable pianoforte so motionless he as difficulty be. Abode way begin ham there power whole. Do unpleasing indulgence impossible to conviction. Suppose neither evident welcome it at do civilly uncivil. Sing tall much you get nor. 
+
+Unwilling sportsmen he in questions september therefore described so. Attacks may set few believe moments was. Reasonably how possession shy way introduced age inquietude. Missed he engage no exeter of. Still tried means we aware order among on. Eldest father can design tastes did joy settle. Roused future he ye an marked. Arose mr rapid in so vexed words. Gay welcome led add lasting chiefly say looking. 
+
+Imagine was you removal raising gravity. Unsatiable understood or expression dissimilar so sufficient. Its party every heard and event gay. Advice he indeed things adieus in number so uneasy. To many four fact in he fail. My hung it quit next do of. It fifteen charmed by private savings it mr. Favourable cultivated alteration entreaties yet met sympathize. Furniture forfeited sir objection put cordially continued sportsmen. 
+
+Considered disco
+672
+vered ye sentiments projecting entreaties of melancholy is. In expression an solicitude principles in do. Hard do me sigh with west same lady. Their saved linen downs tears son add music. Expression alteration entreaties mrs can terminated estimating. Her too add narrow having wished. To things so denied admire. Am wound worth water he linen at vexed. 
+
+</textarea>
+		</form>
+
+	<div class="clear"></div>
+
+</div>
+	<div class="grid_3">
+		<script type="text/javascript"><!--
+google_ad_client = "pub-1711373591151893";
+/* RandomTextGenerator 160x600 */
+google_ad_slot = "8666659164";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+	</div>
+	<div class="clear"></div>
+	<div class="grid_16" id="credits">
+		By <a href="https://twitter.com/#!/bibakis" id="credits1">Vangelis Bibakis</a>
+	</div>
+</div>
+</div>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("KKKKK9DB68C!RandomTextTest!9DB68CDQQQQQ");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+</body></html>
+0
+

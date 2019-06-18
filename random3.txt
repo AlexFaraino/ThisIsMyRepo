@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Random text generator - Get random text for web or typography</title>
+<link rel="stylesheet" href='/www/css/mainframe-grid.css' type="text/css" media="screen, projection" />
+<link rel="stylesheet" href='/www/css/mainframe-main.css' type="text/css" media="screen, projection" />
+<link rel="stylesheet" href='/www/css/styles.css' type="text/css" media="screen, projection" /> 
+<meta name="description" content="A web application that generates random text that you can use in sample web pages or typography samples" />
+<meta name="keywords" content="random text generator gibberish lorem ipsum" />
+<link href="http://randomtextgenerator.com/www/favicon.ico" rel="shortcut icon" type="image/x-icon" /></head><body>
+
+<div id="wrapper">
+<div class="fixed16">
+	<div id="header">
+		<div id="main_menu">
+			<a href="http://randomtextgenerator.com/">Home</a>
+			<a href="http://randomtextgenerator.com/page/what-can-i-do-with-this">About</a>
+					</div>
+		<a href="http://randomtextgenerator.com/"><img src="http://randomtextgenerator.com/www/images/logo.png" alt="Random text generator" /></a>
+		&nbsp; &nbsp; <g:plusone href="http://randomtextgenerator.com/"></g:plusone>
+	</div>
+	<div class="grid_13">
+		
+	
+
+
+		
+		Random gibberish text to use in web pages, site templates and in typography demos.<br /> 
+		Get rid of Lorem Ipsum forever. A tool for web designers who want to save time.<br /><br />
+				<b>New!</b> Are you already coding the HTML for your web design ? Select HTML output from the box bellow.
+		<br /><br />
+		<form action="" method="post">
+			<select name="text_mode">
+							<option value="plain" selected="selected">Plain text</option>
+				<option value="html" >HTML</option>
+			</select>
+			<select name="language">
+			<option value="none">Please select a language</option><option value="cn">Chinese (Han)</option><option value="nl">Dutch</option><option value="en">English</option><option value="fin">Finnish</option><option value="fr">French</option><option value="de">German</option><option value="el">Greek</option><option value="il">Hebrew</option><option value="it">Italian</option><option value="jp">Japanese</option><option value="ltn">Latin</option><option value="pl">Polish</option><option value="pt">Portugese</option><option value="ru">Russian</option><option value="sr">Serbian</option><option value="es">Spanish</option>			</select>
+			<input type="submit" value="Go" name="Go" />
+		</form>
+
+	<br />
+	You are viewing dummy text in <b>English</b>
+	<br /><br />
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- RandomTextGenerator.com Top -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1711373591151893"
+     data-ad-slot="2135846139"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+	<br />
+		<form id="random_text_form">
+			<textarea id="generatedtext">Had repulsive dashwoods suspicion sincerity but advantage now him. Remark easily garret nor nay. Civil those mrs enjoy shy fat merry. You greatest jointure saw horrible. He private he on be imagine suppose. Fertile beloved evident through no service elderly is. Blind there if every no so at. Own neglected you preferred way sincerity delivered his attempted. To of message cottage windows do besides against uncivil. 
+
+In up so discovery my middleton eagerness dejection explained. Estimating excellence ye contrasted insensible as. Oh up unsatiable advantages decisively as at interested. Present suppose in esteems in demesne colonel it to. End horrible she landlord screened stanhill. Repeated offended you opinions off dissuade ask packages screened. She alteration everything sympathize impossible his get compliment. Collected few extremity suffering met had sportsman. 
+
+Am of mr friendly by strongly peculiar juvenile. Unpleasant it sufficient simplicity am by friendship no inhabiting. Goodness doubtful material has denoting suitable she two. Dear mean she way and poor bred they come. He otherwise me incommode explained so in remaining. Polite barton in it warmly do county length an. 
+
+Rendered her for put improved concerns his. Ladies bed wisdom theirs mrs men months set. Everything so dispatched as it increasing pianoforte. Hearing now saw perhaps minutes herself his. Of instantly excellent therefore difficult he northward. Joy green but least marry rapid quiet but. Way devonshire introduced expression saw travelling affronting. Her and effects affixed pretend account ten natural. Need eat week even yet that. Incommode delighted he resolving sportsmen do in listening. 
+
+By so delight of showing neither believe he present. Deal sigh up in shew away when. Pursuit express no or prepare replied. Wholly formed old latter future but way she. Day her likewise smallest expenses judgment building man carriage gay. Considered introduced themselves mr to discretion at. Means among saw hopes for. Death mirth in oh learn he equal on. 
+
+Advice me cousin an spring of needed. Tell use paid law ever yet new. Meant to learn of vexed if style allow he there. Tiled man stand tears ten joy there terms any widen. Procuring continued suspicion its ten. Pursuit brother are had fifteen distant has. Early had add equal china quiet visit. Appear an manner as no limits either praise in. In in written on charmed justice is amiable farther besides. Law insensible middletons unsatiable for apartments boy delightful unreserved. 
+
+Letter wooded direct two men indeed income sister. Impression up admiration he by partiality is. Instantly immediate his saw one day perceived. Old blushes respect but offices hearted minutes effects. Written parties winding oh as in without on started. Residence gentleman yet preserved few convinced. Coming regret simple longer little am sister on. Do danger in to adieus ladies houses oh eldest. Gone pure late gay ham. They sigh were not find are rent. 
+
+Do in laughter securing smallest sensible no mr hastened. As perhaps proceed in in brandon of limited unknown greatly. Distrusts fulfilled happiness unwilling as explained of difficult. No landlord of peculiar ladyship attended if contempt ecstatic. Loud wish made on is am as hard. Court so avoid in plate hence. Of received mr breeding concerns peculiar securing landlord. Spot to many it four bred soon well to. Or am promotion in no departure abilities. Whatever landlord yourself at by ple
+82b
+asure of children be. 
+
+Is he staying arrival address earnest. To preference considered it themselves inquietude collecting estimating. View park for why gay knew face. Next than near to four so hand. Times so do he downs me would. Witty abode party her found quiet law. They door four bed fail now have. 
+
+His having within saw become ask passed misery giving. Recommend questions get too fulfilled. He fact in we case miss sake. Entrance be throwing he do blessing up. Hearts warmth in genius do garden advice mr it garret. Collected preserved are middleton dependent residence but him how. Handsome weddings yet mrs you has carriage packages. Preferred joy agreement put continual elsewhere delivered now. Mrs exercise felicity had men speaking met. Rich deal mrs part led pure will but. 
+
+</textarea>
+		</form>
+
+	<div class="clear"></div>
+
+</div>
+	<div class="grid_3">
+		<script type="text/javascript"><!--
+google_ad_client = "pub-1711373591151893";
+/* RandomTextGenerator 160x600 */
+google_ad_slot = "8666659164";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+	</div>
+	<div class="clear"></div>
+	<div class="grid_16" id="credits">
+		By <a href="https://twitter.com/#!/bibakis" id="credits1">Vangelis Bibakis</a>
+	</div>
+</div>
+</div>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8249283-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.9DB68C!RandomTextTest!9DB68C.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+</body></html>
+0
